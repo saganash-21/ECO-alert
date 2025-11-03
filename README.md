@@ -1,4 +1,5 @@
 🌟 EnviroAlert System 🌟
+
 Hi! I’m proud to present my EnviroAlert System — an Arduino-based environmental monitoring project I built to detect high temperature 🔥 and low light 🌑 conditions.
 
 Whenever things get too hot or too dark, the system gives a visual alert using an RGB LED, an audible alert using a buzzer, and even switches on a cooling fan using a transistor circuit! This is perfect for simple environmental monitoring setups, especially in DIY or educational projects.
@@ -117,3 +118,4 @@ You can monitor real-time readings using the **Serial Monitor** in the Arduino I
 ---
 
 Thank you for checking out my EnviroAlert System! 🌍💛 Feel free to fork, modify, or improve it. Let’s make the world a little smarter, one project at a time! 💪✨
+
